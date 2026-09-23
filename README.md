@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Musicapp-Reactnative
 Dive into MusicApp—a sleek React Native player for seamless local library vibes. Tab through songs, artists, albums &amp; faves with Redux state smarts, react-native-track-player playback, and Material Tabs navigation. Adaptive themes, AsyncStorage favorites, quick search. Clone, npm install, grant perms &amp; groove on!
 =======
@@ -29,5 +28,3 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your ]environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.]
 
-
->>>>>>> 15a4788 (Initial commit)
